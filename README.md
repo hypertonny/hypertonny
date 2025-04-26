@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/9hUuU0O.gif" alt="hacker banner" width="100%" />
-</p>
-
 # ⚡ Rahul Purohit (hypertonny)
 
 > "Building silent tools that make loud impacts."
