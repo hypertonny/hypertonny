@@ -65,7 +65,7 @@ While they replicate, I innovate—because real innovators don’t wait for a ro
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Fast+Learner+🚀;Code%2C+Create%2C+Innovate+✨;Open+to+Opportunities+🤝;" alt="Typing SVG" />
+   <img src="https://raw.githubusercontent.com/hypertonny/hypertonny/main/assets/code-dark.gif" width="100%">
 </p>
 
 ---
