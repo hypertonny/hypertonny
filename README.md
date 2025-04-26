@@ -5,10 +5,6 @@
 <p align="center"><i>"Ideas can be copied, but vision, effort, and growth are mine alone.  
 While they replicate, I innovate—because real innovators don’t wait for a road, they build one." 🚀</i></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d00ff&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff" alt="header"/>
-</p>
-
 ---
 
 ### 🚀 About Me
