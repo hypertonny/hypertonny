@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Rahul Purohit (hypertonny)</h1>
-<h3 align="center">Cloud Engineer | Automation Specialist | Networking Enthusiast</h3>
+<h3 align="center">Cloud Engineer | Software DEV | Automation & Networking Enthusiast</h3>
 
 <p align="center">
   <em>"Ideas can be copied, but vision, effort, and growth are mine alone. While they replicate, I innovate—because real innovators don’t wait for a road, they build one." 🚀</em>
