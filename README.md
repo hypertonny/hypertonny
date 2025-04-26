@@ -1,24 +1,27 @@
-# 👋 Hi, I'm Rahul Purohit (a.k.a hypertonny)
+👨‍💻 Rahul Purohit (hypertonny)
+"Building tools, breaking barriers."
 
-🚀 Passionate about Automation, Python scripting, and building cool projects.
+👾 About Me
+🧠 Self-taught developer | Python Wizard | Shell Scripter
 
-- 🔭 I’m currently working on: Python utilities, networking tools, and automation scripts
-- 🌱 I’m learning: Advanced Networking, Ethical Hacking, and Cloud Technologies
-- 👯 I’m looking to collaborate on: Open-source security and utility tools
-- 💬 Ask me about: Python, Networking, Shell Scripting
-- 📫 How to reach me: [your email or socials here if you want]
-- ⚡ Fun fact: I love making complex things simple.
+🌍 Currently working on network utilities, automation scripts, and security tools
 
----
+📚 Always learning about Networking, CyberSecurity, and Cloud Computing
 
-### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🛠️ Crafting small projects with big impact
 
----
+🕶️ Staying low-key and anonymous 🕵️
 
-### 📊 GitHub Stats
-![Hypertonny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hypertonny&show_icons=true&theme=radical)
+🛠️ Skills & Tools
 
----
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hypertonny&show_icons=true&theme=radical" width="400"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hypertonny&theme=radical" width="400"> </p>
+📫 How to Reach Me
+🚫 Anonymous... for now.
+
+🛡️ Focused on work that speaks louder than words.
+
+⚡ Fun Fact
+I can automate your boring task... faster than you can even explain it 😎
+
+🔥 Let's break it, let's build it better.
