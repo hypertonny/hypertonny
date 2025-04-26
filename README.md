@@ -30,6 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
+![Visitor Count](https://komarev.com/ghpvc/?username=hypertonny&color=blueviolet&style=flat-square)
 
 ---
 
