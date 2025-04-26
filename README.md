@@ -1,3 +1,4 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=hypertonny&color=blueviolet&style=flat-square)
 <h1 align="center">⚡ Rahul Purohit (hypertonny)</h1>
 <h3 align="center">Cloud Engineer | Software DEV | Automation & Networking Enthusiast</h3>
 
@@ -30,7 +31,10 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
-![Visitor Count](https://komarev.com/ghpvc/?username=hypertonny&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hypertonny/hypertonny/main/assets/line-break.svg" width="80%" />
+</p>
+
 
 ---
 
